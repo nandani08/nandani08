@@ -37,19 +37,14 @@
 
 ```text
 USER      PID   %CPU  %BRAIN  STATUS    COMMAND
-nandani   0001  99.9   95.0   running   deep-learning --mode=obsessed
-nandani   0002  42.0   80.0   running   neural-networks --backprop
-nandani   0003  13.3   60.0   sleeping  dsa-grind --daily --leetcode
+nandani   0001  99.9   95.0   running   deep-learning 
+nandani   0002  42.0   80.0   running   neural-networks 
+nandani   0003  13.3   60.0   sleeping  dsa-grind 
 ```
 
 <br/>
 
 ## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nandani08&show_icons=true&hide_border=false&bg_color=1e1b2e&title_color=a78bfa&text_color=e9e4f5&icon_color=ff9e80&border_color=6d5aa8&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandani08&layout=compact&hide_border=false&bg_color=1e1b2e&title_color=a78bfa&text_color=e9e4f5&border_color=6d5aa8&langs_count=8" alt="Top Languages"/>
-</div>
 
 <br/>
 
